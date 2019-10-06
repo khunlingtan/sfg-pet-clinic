@@ -5,7 +5,7 @@ import com.example.sfgpetclinic.services.CrudService;
 
 import java.util.Set;
 
-public class VetService extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
 
     @Override
     public Set<Vet> findAll() {
