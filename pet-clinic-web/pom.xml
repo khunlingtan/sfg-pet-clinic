@@ -9,10 +9,6 @@
 
     <artifactId>pet-clinic-web</artifactId>
 
-    <properties>
-        <start-class>com.example.sfgpetclinic</start-class>
-    </properties>
-
     <dependencies>
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
